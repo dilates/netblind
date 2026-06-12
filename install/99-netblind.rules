@@ -1,0 +1,5 @@
+polkit.addRule(function(action, subject) {
+  if (action.id == "org.netblind.manage" && subject.isInGroup("netblind")) {
+    return polkit.Result.YES;
+  }
+});

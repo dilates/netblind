@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=netblind
+GenericName=Outbound Firewall
+Comment=Per-application outbound firewall for Linux
+Exec=netblind-gui
+Icon=security-high
+Terminal=false
+Type=Application
+Categories=System;Security;Network;
+Keywords=firewall;network;security;
+StartupWMClass=netblind
