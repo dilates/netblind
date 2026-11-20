@@ -470,4 +470,3 @@ Made with care by **[dilates](https://github.com/dilates)**
 **Litecoin (LTC) donations:** `LZkNEPvTt9MhGTHuYvhsGSPqw91odZRX4j`
 
 </div>
- 
